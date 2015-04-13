@@ -10,5 +10,5 @@ For mount it, it´s necesary this hardware:
 * A Silicone Vehicle Anti-Slip Mat like this: http://www.dx.com/p/silicone-vehicle-anti-slip-mat-black-126636#.VSweR_msWTM
 
 <img align="Left" src="Turnigy9x_phone_stand/photo_2015-04-13_21-52-30.jpg" />
-<img align="right" src="./photo_2015-04-13_21-52-45.jpg" />
+<img align="right" src="Turnigy9x_phone_stand/photo_2015-04-13_21-52-45.jpg" />
 This model is derived from: http://www.thingiverse.com/thing:349502
